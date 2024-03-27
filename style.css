@@ -34,7 +34,7 @@ body {
     font-size: 32px;
 }
 
-.titulo-principal spam{
+.titulo-principal span{
     color: var(--verde);
 }
 
