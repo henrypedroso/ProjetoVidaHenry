@@ -34,3 +34,7 @@ body {
     font-size: 32px;
 }
 
+.titulo-principal spam{
+    color: var(--verde);
+}
+
