@@ -38,7 +38,7 @@ body {
     color: var(--verde);
 }
 
-.botao{
+.botoes{
     font-family: Crakra-Petch, sans-serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
